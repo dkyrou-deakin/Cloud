@@ -8,4 +8,8 @@ app.get('/', function (req,res) {
 
 //list to a particular port
 app.listen(3000)
-//VISIT http://localhost:3000/ to find the message
+//VISIT http://localhost:3000
+
+
+
+// to find the message

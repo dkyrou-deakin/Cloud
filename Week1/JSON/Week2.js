@@ -37,3 +37,9 @@ app.delete('/users/:id', (req, res) => {
 app.listen(3000, () => {
     console.log('Serverm is listening on port 3000')
 })
+
+//in JSON directory
+//git add.\example.js
+//git status
+//git commit -m "msg"
+//git push origin main
